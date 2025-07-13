@@ -1,1 +1,1 @@
-vsgfg khfprint"Hello")
+print("Hello")
